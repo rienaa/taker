@@ -889,3 +889,12 @@
 2/28/2025 | 4:27:08 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 2/28/2025 | 4:27:08 AM | INFO | Trying to activate mining on-chain for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
 2/28/2025 | 4:27:13 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8b63eea36dd533f718f3b40d6e628f3692ed4918f9ae5291c5a5a35981282a93 
+2/28/2025 | 8:28:03 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/28/2025 | 8:28:03 AM | INFO | Start process for wallet 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+2/28/2025 | 8:28:03 AM | INFO | Trying To Login for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+2/28/2025 | 8:28:04 AM | INFO | Login successful... 
+2/28/2025 | 8:28:04 AM | INFO | Trying to check user info... 
+2/28/2025 | 8:28:05 AM | INFO | User ID: 99054371 | Twitter: @grienaa | Total Points: 360000 
+2/28/2025 | 8:28:05 AM | INFO | Trying to check user miner status... 
+2/28/2025 | 8:28:05 AM | INFO | Last mining time: 2/28/2025, 4:27:12 AM
+2/28/2025 | 8:28:05 AM | WARN | Mining already started, next mining time is: 3/1/2025, 4:27:12 AM
