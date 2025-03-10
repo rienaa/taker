@@ -1389,3 +1389,15 @@
 3/10/2025 | 8:25:05 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
 3/10/2025 | 8:25:05 AM | INFO | Start process for wallet 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
 3/10/2025 | 8:25:05 AM | ERROR | Failed to retrieve nonce for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+3/10/2025 | 12:46:58 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/10/2025 | 12:46:58 PM | INFO | Start process for wallet 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+3/10/2025 | 12:46:59 PM | INFO | Trying To Login for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+3/10/2025 | 12:46:59 PM | INFO | Login successful... 
+3/10/2025 | 12:46:59 PM | INFO | Trying to check user info... 
+3/10/2025 | 12:47:00 PM | INFO | User ID: 99054371 | Twitter: @grienaa | Total Points: 528000 
+3/10/2025 | 12:47:00 PM | INFO | Trying to check user miner status... 
+3/10/2025 | 12:47:01 PM | INFO | Last mining time: 3/8/2025, 1:21:09 AM
+3/10/2025 | 12:47:01 PM | INFO | Trying to start Mining for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+3/10/2025 | 12:47:01 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/10/2025 | 12:47:01 PM | INFO | Trying to activate mining on-chain for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+3/10/2025 | 12:47:11 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x133cff62715dfb93b8b2e0b597b4aa1292e7a3662dc1779ed47a9dfb789cf074 
