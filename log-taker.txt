@@ -2723,3 +2723,15 @@
 4/2/2025 | 8:25:40 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:25:43 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:25:43 PM | ERROR | Failed to retrieve nonce for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+4/3/2025 | 1:51:54 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:51:54 AM | INFO | Start process for wallet 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+4/3/2025 | 1:51:54 AM | INFO | Trying To Login for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+4/3/2025 | 1:51:55 AM | INFO | Login successful... 
+4/3/2025 | 1:51:55 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:51:56 AM | INFO | User ID: 99054371 | Twitter: @grienaa | Total Points: 1033680 
+4/3/2025 | 1:51:56 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:51:57 AM | INFO | Last mining time: 4/1/2025, 12:49:45 PM
+4/3/2025 | 1:51:57 AM | INFO | Trying to start Mining for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+4/3/2025 | 1:51:58 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:51:58 AM | INFO | Trying to activate mining on-chain for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+4/3/2025 | 1:52:04 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x89a212fca754e07835255ab861a4a0c78c86adcb610575788b5b1a401428c424 
