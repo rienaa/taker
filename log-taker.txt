@@ -4938,3 +4938,16 @@
 5/11/2025 | 8:24:03 PM | INFO | Trying to check user miner status... 
 5/11/2025 | 8:24:04 PM | INFO | Last mining time: 5/10/2025, 8:24:12 PM
 5/11/2025 | 8:24:04 PM | WARN | Mining already started, next mining time is: 5/11/2025, 8:24:12 PM
+5/12/2025 | 2:02:59 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/12/2025 | 2:02:59 AM | INFO | Start process for wallet 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+5/12/2025 | 2:03:00 AM | INFO | Trying To Login for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+5/12/2025 | 2:03:01 AM | INFO | Login successful... 
+5/12/2025 | 2:03:01 AM | INFO | Trying to check user info... 
+5/12/2025 | 2:03:02 AM | INFO | User ID: 99054371 | Twitter: @grienaa | Total Points: 1873680 
+5/12/2025 | 2:03:02 AM | INFO | Trying to check user miner status... 
+5/12/2025 | 2:03:06 AM | INFO | Last mining time: 5/10/2025, 8:24:12 PM
+5/12/2025 | 2:03:06 AM | INFO | Trying to start Mining for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+5/12/2025 | 2:03:12 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/12/2025 | 2:03:12 AM | INFO | Trying to activate mining on-chain for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+5/12/2025 | 2:03:36 AM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86e82046554830186a083200b2082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a0ad02366bc26af5bee68ad0b2e5ddf672668be7404ba1d066b2fb4a6c9a281b10a06a5189a52a7d024634c980f8b0cc570c193385ebab47f235f10e7da97ba0db9a"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
+5/12/2025 | 2:03:36 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
