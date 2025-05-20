@@ -5442,3 +5442,16 @@
 5/20/2025 | 12:52:29 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/20/2025 | 12:52:29 PM | INFO | Trying to activate mining on-chain for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
 5/20/2025 | 12:52:38 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x13f181b59a8f690574257f51d279a5997987d3c6503539bccce9c3bcbeb6564d 
+5/20/2025 | 4:31:32 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 4:31:32 PM | INFO | Start process for wallet 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+5/20/2025 | 4:31:33 PM | INFO | Trying To Login for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+5/20/2025 | 4:31:33 PM | INFO | Login successful... 
+5/20/2025 | 4:31:33 PM | INFO | Trying to check user info... 
+5/20/2025 | 4:31:34 PM | INFO | User ID: 99054371 | Twitter: @grienaa | Total Points: 2065680 
+5/20/2025 | 4:31:34 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 4:31:35 PM | INFO | Last mining time: 3/14/2025, 1:48:06 AM
+5/20/2025 | 4:31:35 PM | INFO | Trying to start Mining for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+5/20/2025 | 4:31:36 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/20/2025 | 4:31:36 PM | INFO | Trying to activate mining on-chain for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+5/20/2025 | 4:31:37 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5c","from":"0x9ea7fbb577f5f8a15adbec58a8411d2001bc0948","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/20/2025 | 4:31:37 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
