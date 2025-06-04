@@ -6291,3 +6291,16 @@
 6/4/2025 | 4:27:15 PM | INFO | Trying to check user miner status... 
 6/4/2025 | 4:27:16 PM | INFO | Last mining time: 6/3/2025, 4:33:39 PM
 6/4/2025 | 4:27:16 PM | WARN | Mining already started, next mining time is: 6/4/2025, 4:33:39 PM
+6/4/2025 | 8:21:37 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/4/2025 | 8:21:37 PM | INFO | Start process for wallet 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+6/4/2025 | 8:21:37 PM | INFO | Trying To Login for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+6/4/2025 | 8:21:38 PM | INFO | Login successful... 
+6/4/2025 | 8:21:38 PM | INFO | Trying to check user info... 
+6/4/2025 | 8:21:38 PM | INFO | User ID: 99054371 | Twitter: @grienaa | Total Points: 2377680 
+6/4/2025 | 8:21:38 PM | INFO | Trying to check user miner status... 
+6/4/2025 | 8:21:39 PM | INFO | Last mining time: 6/3/2025, 4:33:39 PM
+6/4/2025 | 8:21:39 PM | INFO | Trying to start Mining for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+6/4/2025 | 8:21:40 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/4/2025 | 8:21:40 PM | INFO | Trying to activate mining on-chain for wallet: 0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948 
+6/4/2025 | 8:21:41 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x9eA7fBB577f5F8a15adBEC58a8411D2001bc0948"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x69","from":"0x9ea7fbb577f5f8a15adbec58a8411d2001bc0948","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+6/4/2025 | 8:21:41 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
